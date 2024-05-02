@@ -8,7 +8,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Reis17&theme=dark"/>
   </a>
 </div> 
-
+<br>
 <div style="display: inline-block;">
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="CSS icon"/>
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="HTML5 icon"/>
