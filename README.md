@@ -1,7 +1,6 @@
 ### Olá! Sou o Emanuel Reis😎
 
 - 👨‍💻 Desenvolvedor Web
-- 🖥 Cursando Análise & Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/Emanuel-Reis17" target="_blank">
