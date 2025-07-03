@@ -1,27 +1,33 @@
-### Olá! Sou o Emanuel Reis😎
+# 👋 Olá! Eu sou Emanuel Reis
 
-- 👨‍💻 Desenvolvedor Web
+Desenvolvedor Web Frontend focado em construir soluções funcionais, com interesse crescente em backend, automações e soluções completas para a web.
 
-<div>
-  <a href="https://github.com/Emanuel-Reis17" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Reis17&theme=dark"/>
-  </a>
-</div> 
-<br>
-<div style="display: inline-block;">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="CSS icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="HTML5 icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python icon"/>
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL icon"/>      
+## 🚀 Tecnologias
+
+<div style="display: flex; gap: 10px;">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />      
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React.js" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
+<!--   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" /> -->
 </div>
 
-## 
+---
 
-<div>
-  <a href="mailto:emanuelemreis@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Emanuel-Reis17" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/emanuel-reis-377a09215" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
+<a href="https://github.com/Emanuel-Reis17">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-Reis17&layout=compact&theme=dark&langs_count=8"/>
+</a>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuelemreis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-reis-377a09215)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emanuel-Reis17)
+
+## 🎯 Sobre mim
+
+- 🎓 Estudando Frontend com foco em React e base sólida em JavaScript
+- 🔧 Explorando Backend com Node.js, PHP e Python
+- 🧠 Foco em aprender, criar soluções e resolver problemas reais com tecnologia
+- 💼 Em busca de oportunidades como desenvolvedor
